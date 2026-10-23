@@ -1,12 +1,8 @@
-# FitLog — Workout Library
-
-A dark, no-nonsense gym companion. Browse 12 lifts, open a detail page, add workouts to today's plan or save them for later, and watch your minutes and calories add up.
 
 ## Technologies Used
-- Next.js 14 (App Router)
-- React 18 (Context API, hooks)
+- Next.js 14 
+- React 18 
 - Tailwind CSS
-- react-hot-toast (notifications)
 - react-icons
 
 ## Features
@@ -20,12 +16,3 @@ A dark, no-nonsense gym companion. Browse 12 lifts, open a detail page, add work
 8. Plan and saved counts start at 0 every time the app opens
 9. Custom 404 page
 
-## Getting Started
-```bash
-npm install
-npm run dev
-```
-Open http://localhost:3000
-
-## Deploy
-Push to GitHub and import the repo in Vercel. Next.js handles page reloads on every route.
